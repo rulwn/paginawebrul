@@ -1,6 +1,26 @@
 *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
-    background-color: burlywood;
-    
+body{
+    padding: 0px;
+    margin: 0px;
+    border:none;
+    width: 100%;}
 
+.form{
+    margin: 10px
+}
+h1{
+    text-align: center;
+}
+legend{
+    text-align: center;
+}
+
+.TextInput{
+    margin: 10px;
+    padding: 10px;
 }
